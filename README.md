@@ -37,4 +37,19 @@ Access the Grafana dashboard
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/fac5ee09-365b-421f-93de-1c9caa0e01f4" />
 configure a Prometheus data source
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/d0fa79bc-1f20-4c00-95fb-270048fc5747" />
-7. 
+
+7. Terraform Integration
+ o Add Helm provider
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/64ed4174-f145-4331-8808-cca6cb2cdefa" />
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/325cf1d3-d12f-46a1-8d82-a0d4e866ffd0" />
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/c1cda758-06c9-4786-bdf6-aeac92213a33" />
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/b6adbb0f-dad3-4896-9414-7f86452ebc90" />
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/1e2a094a-6d42-44ff-ba40-2f9f91cd8be4" />
+ o Deploy Prometheus and Grafana as Helm releases
+
+
+ o Manage namespace and dependencies declarativel
