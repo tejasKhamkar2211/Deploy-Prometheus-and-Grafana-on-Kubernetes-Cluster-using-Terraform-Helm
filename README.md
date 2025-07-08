@@ -33,6 +33,8 @@ Confirm installation
 
 5. Grafana Deployment
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/660822da-4e41-47e4-9c46-dece5706171a" />
-
-
+Access the Grafana dashboard
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/fac5ee09-365b-421f-93de-1c9caa0e01f4" />
+configure a Prometheus data source
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/d0fa79bc-1f20-4c00-95fb-270048fc5747" />
 7. 
