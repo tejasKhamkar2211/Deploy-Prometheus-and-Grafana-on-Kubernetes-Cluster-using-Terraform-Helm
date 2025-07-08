@@ -31,6 +31,8 @@ Confirm installation
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/5b6114a9-dbc9-412b-ba79-273cd6838af9" />
 
 
+5. Grafana Deployment
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/660822da-4e41-47e4-9c46-dece5706171a" />
 
 
-5. 
+7. 
