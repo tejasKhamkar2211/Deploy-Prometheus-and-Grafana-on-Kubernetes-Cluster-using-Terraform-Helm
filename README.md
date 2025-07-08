@@ -42,7 +42,11 @@ configure a Prometheus data source
  o Add Helm provider
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/64ed4174-f145-4331-8808-cca6cb2cdefa" />
 
+Initialize Terraform
+
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/325cf1d3-d12f-46a1-8d82-a0d4e866ffd0" />
+
+Terraform plan
 
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/c1cda758-06c9-4786-bdf6-aeac92213a33" />
 
